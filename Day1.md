@@ -32,5 +32,5 @@ a collaboration of jay sargent's notes
     Establish Push and Pull
     Forking Makes Another Copy Online    
 
->Function Declaration VS Function Expression (see *Hoisting*)
->Callbacks are among one of the patterns of JS
+>Function Declaration VS Function Expression (see *Hoisting*)  
+>Callbacks are among one of the patterns of JS  
