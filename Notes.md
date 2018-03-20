@@ -10,10 +10,10 @@ a collaboration of jay sargent's notes
 
 ## Doors are open 24/7
 
-| Mentor   Gauge |
+| Mentor | Gauge |
 | ------------- | ------------- |
 | 30%  | 90%  |
-| Content Cell  | Content Cell  |
+| Drowning  | Swimming  |
 
 # Do's
 >Re-Write Code Quicker  
@@ -23,6 +23,9 @@ a collaboration of jay sargent's notes
 * Mentors are your bosses
 
 # GIT
->Step 1: `Add` or Stage  
->Step 2: `Commit`      
+    Step 1: `Add` or Stage  
+    Step 2: `Commit`      
+
+    Clone the First Time  
+    Establish Push and Pull
 
