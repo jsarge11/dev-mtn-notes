@@ -10,7 +10,7 @@ a collaboration of jay sargent's notes
 
 ## Doors are open 24/7
 
-| Mentor  | Gauge |
+| Mentor   Gauge |
 | ------------- | ------------- |
 | 30%  | 90%  |
 | Content Cell  | Content Cell  |
