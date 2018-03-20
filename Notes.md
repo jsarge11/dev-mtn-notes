@@ -10,15 +10,15 @@ a collaboration of jay sargent's notes
 
 ## Doors are open 24/7
 
-#Do's
->Re-Write Code Quicker
->Two Hours of Code Every Day
+# Do's
+>Re-Write Code Quicker  
+>Two Hours of Code Every Day  
 
 * Hours Matter
 * Mentors are your bosses
 
-#GIT
->Step 1: `Add` or Stage
->Step 2: `Commit`    
+# GIT
+>Step 1: `Add` or Stage  
+>Step 2: `Commit`      
 
-`code here`
+    code here
