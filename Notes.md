@@ -14,11 +14,11 @@ a collaboration of jay sargent's notes
 >Re-Write Code Quicker
 >Two Hours of Code Every Day
 
-'code here'
+* Hours Matter
+* Mentors are your bosses
 
-Mentor Gauge
------------- | -------------
-Content in the first column | Content in the second column
-#90% | #30%  
+#GIT
+>Step 1: `Add` or Stage
+>Step 2: `Commit`    
 
-
+`code here`
