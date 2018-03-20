@@ -10,12 +10,9 @@ a collaboration of jay sargent's notes
 
 ## Doors are open 24/7
 
-...Do's
+1. Do's
 ..Re-do Projects Quicker and Better after the day
 ..Two Hours of Coding Every Day
-..
-
-#Learning Objectives
 ..##UI
 
 
