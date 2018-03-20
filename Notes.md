@@ -21,4 +21,7 @@ a collaboration of jay sargent's notes
 >Step 1: `Add` or Stage  
 >Step 2: `Commit`      
 
-    code here
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
