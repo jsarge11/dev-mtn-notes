@@ -28,4 +28,5 @@ a collaboration of jay sargent's notes
 
     Clone the First Time  
     Establish Push and Pull
+    Forking Makes Another Copy Online
 
