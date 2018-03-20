@@ -23,10 +23,14 @@ a collaboration of jay sargent's notes
 * Mentors are your bosses
 
 # GIT
-    Step 1: `Add` or Stage  
-    Step 2: `Commit`      
+    Step 1: GIT Init
+    Step 2: Git Clone
+    Step 3: `Add` or Stage  
+    Step 4: `Commit`      
 
     Clone the First Time  
     Establish Push and Pull
-    Forking Makes Another Copy Online
+    Forking Makes Another Copy Online    
 
+>Function Declaration VS Function Expression (see *Hoisting*)
+>Callbacks are among one of the patterns of JS
