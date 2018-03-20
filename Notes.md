@@ -10,9 +10,15 @@ a collaboration of jay sargent's notes
 
 ## Doors are open 24/7
 
-1. Do's
-..Re-do Projects Quicker and Better after the day
-..Two Hours of Coding Every Day
-..##UI
+#Do's
+>Re-Write Code Quicker
+>Two Hours of Code Every Day
+
+'code here'
+
+Mentor Gauge
+------------ | -------------
+Content in the first column | Content in the second column
+#90% | #30%  
 
 
