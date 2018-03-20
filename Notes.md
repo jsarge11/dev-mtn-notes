@@ -10,6 +10,11 @@ a collaboration of jay sargent's notes
 
 ## Doors are open 24/7
 
+| Mentor  | Gauge |
+| ------------- | ------------- |
+| 30%  | 90%  |
+| Content Cell  | Content Cell  |
+
 # Do's
 >Re-Write Code Quicker  
 >Two Hours of Code Every Day  
@@ -21,7 +26,3 @@ a collaboration of jay sargent's notes
 >Step 1: `Add` or Stage  
 >Step 2: `Commit`      
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
